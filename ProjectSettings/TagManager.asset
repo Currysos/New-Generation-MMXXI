@@ -3,20 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - TutorialRequirement
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
+  - Climb
+  - DeathZones
+  - CompleteZone
+  - Coin
   - 
   - 
   - 
@@ -39,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Parallax
+    uniqueID: 570106515
+    locked: 0
+  - name: Background
+    uniqueID: 3065863299
+    locked: 0
+  - name: Foreground
+    uniqueID: 739511621
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
