@@ -102,8 +102,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 472163421
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: -5113850848988359095, guid: 5641313a9a7157e48b4ecf7e49ac4c00,
     type: 3}
@@ -155,7 +155,7 @@ PlatformEffector2D:
   m_ColliderMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_RotationalOffset: 0
+  m_RotationalOffset: -5
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
   m_SurfaceArc: 170
@@ -232,8 +232,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 472163421
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: -1698345488966040518, guid: 5641313a9a7157e48b4ecf7e49ac4c00,
     type: 3}
@@ -285,7 +285,7 @@ PlatformEffector2D:
   m_ColliderMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_RotationalOffset: 0
+  m_RotationalOffset: 5
   m_UseOneWay: 1
   m_UseOneWayGrouping: 0
   m_SurfaceArc: 170

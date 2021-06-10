@@ -13,8 +13,8 @@ public class Token : MonoBehaviour
 
     void OnPlayerEnter(PixelArtPlayerController player)
     {
-        player.AddCoin();
-        Instantiate(_tokenCollectAudio, this.transform.position, this.transform.rotation);
-        Destroy(this.gameObject);
+        player.CoinsCollected += 1;
+        Instantiate(_tokenCollectAudio, transform.position, transform.rotation);
+        Destroy(gameObject);
     }
 }

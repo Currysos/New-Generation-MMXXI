@@ -27,7 +27,7 @@
                     "id": "2c2893f9-5481-4caa-8209-aec5fe5a9f0a",
                     "expectedControlType": "Button",
                     "processors": "",
-                    "interactions": ""
+                    "interactions": "Press(behavior=2)"
                 },
                 {
                     "name": "StartClimb",

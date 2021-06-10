@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Character/Pixel Art Character/Input/InputMaster.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/Prefabs/Player/Input/InputMaster.inputactions'
 
 using System;
 using System.Collections;
@@ -40,7 +40,7 @@ public class @InputMaster : IInputActionCollection, IDisposable
                     ""id"": ""2c2893f9-5481-4caa-8209-aec5fe5a9f0a"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
-                    ""interactions"": """"
+                    ""interactions"": ""Press(behavior=2)""
                 },
                 {
                     ""name"": ""StartClimb"",
